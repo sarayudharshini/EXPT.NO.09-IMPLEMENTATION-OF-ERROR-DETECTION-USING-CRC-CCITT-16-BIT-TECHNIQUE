@@ -1,4 +1,8 @@
-# EXPT.NO.09-IMPLEMENTATION-OF-ERROR-DETECTION-USING-CRC-CCITT-16-BIT-TECHNIQUE
+
+# EXPT.NO.09
+# Date: 8/10/2025
+
+# IMPLEMENTATION-OF-ERROR-DETECTION-USING-CRC-CCITT-16-BIT-TECHNIQUE
 # AIM:
 To write a program for error Detection using Cyclic Redundancy Check (CRC-16 bit) technique.
 
@@ -51,6 +55,7 @@ printf("no error detected");
 }
  
 # OUTPUT:
+<img width="528" height="248" alt="image" src="https://github.com/user-attachments/assets/d60e262e-9d58-4d78-8dc1-9b2018cc49de" />
 
 
 # RESULT:
